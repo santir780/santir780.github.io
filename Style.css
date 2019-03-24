@@ -1,0 +1,68 @@
+
+    body {
+
+        background-color: rgb(26, 25, 25)
+    }
+
+
+    .title {
+
+        color: #bace0a;
+        font-family: Copperplate Gothic Light;
+        font-size: 30px;
+
+    }
+
+    .text {
+
+        color: #bace0a;
+        font-family: Copperplate Gothic Light;
+        text-align: justify;
+        margin: 20px;
+        
+    }
+
+    .mySlides {
+        display: none;
+    }
+
+    .Argument {
+        display: none;
+
+    }
+
+    .Videos {
+        display: none;
+
+    }
+
+    .Facts{
+
+        display: none;
+    }
+
+
+    .content {
+
+        background: linear-gradient(to bottom, #000428, #004886);
+        border-right-color: rgb(33, 33, 124);
+        border-right-style: double;
+
+    }
+
+    .rounded-circle {
+
+        width: 350px;
+        height: 350px
+    }
+
+    .link-color:hover {
+
+        background-color: #5e7421;
+        color: white
+    }
+
+    
+    .link-color {
+        color: white
+    }
